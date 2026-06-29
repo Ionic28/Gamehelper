@@ -1,0 +1,13 @@
+Monsters have #% increased Effectiveness
+#% increased Rarity of Items found in Map
+#% increased Pack Size in Map
+Map has #% increased Magic Monsters
+Map has #% increased number of Rare Monsters
+Map has #% increased Monster Rarity
+#% increased Gold found in Map
+#% increased Experience gain in Map
+Map contains # additional Rare Chests
+Map contains an additional Essence
+Map contains # additional Azmeri Spirit
+Map is inhabited by # additional Rogue Exile
+Map contains an additional Summoning Circle

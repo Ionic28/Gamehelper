@@ -1,0 +1,10 @@
+Map has #% increased chance to contain Shrines
+Map contains an additional Shrine
+Map has #% increased chance to contain Strongboxes
+Map contains an additional Strongbox
+Map has #% increased chance to contain Essences
+Map has #% increased chance to contain Azmeri Spirits
+Map has #% increased chance to contain Rogue Exiles
+Map has #% increased chance to contain a Summoning Circle
+Map has # additional random Modifier
+Unique Monsters have # additional Rare Modifier

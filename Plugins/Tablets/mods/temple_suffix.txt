@@ -1,0 +1,17 @@
+Map has #% increased chance to contain Shrines
+Map contains an additional Shrine
+Map has #% increased chance to contain Strongboxes
+Map contains an additional Strongbox
+Map has #% increased chance to contain Essences
+Map has #% increased chance to contain Azmeri Spirits
+Map has #% increased chance to contain Rogue Exiles
+Map has #% increased chance to contain a Summoning Circle
+Map has # additional random Modifier
+Unique Monsters have # additional Rare Modifier
+#% increased Pack Size for Monsters around Vaal Beacons in Map
+# extra pack of Monsters around Vaal Beacons in Map
+#% chance for an extra packs of Monsters around Vaal Beacons in Map
+#% increased chance Vaal Beacons summon additional Monsters in Map
+#% chance to gain an additional Crystal from Vaal Beacons in Map
+#% chance to add a Vaal Beacon Unique Monster to the Map
+#% increased chance Vaal Beacon Chests are Rare in Map
